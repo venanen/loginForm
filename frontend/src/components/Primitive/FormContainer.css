@@ -1,0 +1,32 @@
+.formContainer{
+    background: #fffffff2;
+    border-radius: 11px;
+    box-shadow: 0px 0px 6px 1px #b7b7b7;
+    z-index: 1;
+    transition: 0.5s;
+}
+.panel-header{
+    padding: 1em 0;
+    /* margin: 1em; */
+    margin-bottom: 1em;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.16);
+    font-size: 2em;
+}
+.activeShadow{
+    box-shadow: 0px 0px 16px 6px #383535 !important;
+}
+.activeBlur{
+
+    filter: blur(4px);
+}
+#background-page{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-image: url(/back1.jpg);
+    transition: 0.5s;
+
+
+}

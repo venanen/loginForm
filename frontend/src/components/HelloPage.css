@@ -1,0 +1,31 @@
+#main-container-HelloPage{
+    width: 100%;
+    height: 100vh;
+   #background-image: url(/back1.jpg);
+    filter: blur(0px);
+    transition: 1s;
+    margin: 0px;
+
+
+}
+.formElement{
+    margin: 0 1em 1.8em;
+
+}
+.panel-header{
+    padding: 1em 0;
+    /* margin: 1em; */
+    margin-bottom: 1em;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.16);
+    font-size: 2em;
+}
+.leftSide-loginLayout{
+    border-right: solid 1px rgba(0, 0, 0, 0.16);
+}
+.rightSide-loginLayout{
+    text-align: start;
+}
+
+#registerText{
+    margin: 0 1.5em 1.5em;
+}

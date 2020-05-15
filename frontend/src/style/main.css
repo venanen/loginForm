@@ -1,0 +1,19 @@
+:root{
+
+    --darkestBg: #211A1D;
+    --black: #211A1D;
+    --purpleDark: #6320EE;
+    --darkerBg: #6320EE;
+    --mediumDark: #8075FF;
+    --ligher: #F8F0FB;
+    --font-color: #F8F0FB;
+    --light: #F8F0FB;
+
+
+}
+
+.full-width{
+    width: 100%;
+}
+
+

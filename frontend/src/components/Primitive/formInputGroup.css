@@ -1,0 +1,13 @@
+.p-inputtext:enabled:focus{
+     box-shadow: 0 0 5px 0em #8dcdff;
+ }
+.p-inputtext{
+    width:100%;
+}
+.error-signin{
+    font-size: 0.8em;
+    color: red;
+}
+.error-input{
+    border: 1px solid red !important;
+}

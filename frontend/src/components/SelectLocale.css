@@ -1,0 +1,22 @@
+.flags-container{
+    position: fixed;
+    bottom: 3em;
+    right: 5em;
+    color: white;
+    z-index: 4;
+}
+.flag-image{
+    transition: 0.5s;
+    height: 30px;
+    border-radius: 11px;
+    width: 30px;
+
+}
+.grayscaled{
+    filter: brightness(0.5);
+
+}
+.grayscaled:hover{
+    filter: none;
+
+}

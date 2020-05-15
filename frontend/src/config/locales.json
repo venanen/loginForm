@@ -1,0 +1,164 @@
+{
+  "config":{
+    "enabledLanguage":["ru", "us"]
+  },
+  "data": {
+    "helloPageMainText": {
+      "ru": "Добро пожаловать!",
+      "us": "Welcome!"
+    },
+    "login": {
+      "ru": "Логин",
+      "us": "Login"
+    },
+    "password": {
+      "ru": "Пароль",
+      "us": "Password"
+    },
+    "repeatPassword": {
+      "ru": "Повторите пароль",
+      "us": "Repeat Password"
+    },
+    "register": {
+      "ru": "Регистрация",
+      "us": "Registration"
+    },
+    "loginIsEmpty": {
+      "ru": "Логин не может быть пустым",
+      "us": "Login can't be empty"
+    },
+    "passwordIsEmpty": {
+      "ru": "Пароль не может быть пустым",
+      "us": "Password can't be empty"
+    },
+    "makeRegisterText": {
+      "ru": "Нет аккаунта? Зарегестрируйтесь! Это бесплатно и не займет у вас больше 5 минут.",
+      "us": "No account? Register! It's free and won't take you more than 5 minutes."
+    },
+    "signUpLoginTooltip": {
+      "ru": "Логин может содержать только латинские буквы и цифры",
+      "us": "Login can contains only latin letters and numbers"
+    },
+    "weakPassword": {
+      "ru": "Легкий пароль",
+      "us": "Weak password"
+    },
+    "middlePassword": {
+      "ru": "Средний пароль",
+      "us": "Middle password"
+    },
+    "strongPassword": {
+      "ru": "Сильный пароль",
+      "us": "strongPassword"
+    },
+    "passwordEnterTooltip": {
+      "ru": "Введите надежный пароль",
+      "us": "Enter a strong password"
+    },
+    "passwordRepeatTooltip": {
+      "ru": "Введите пароль еще раз для безопасности",
+      "us": "Enter your password again for security"
+    },
+    "nameTooltip": {
+      "ru": "Введите имя",
+      "us": "Enter nickname"
+    },
+    "name": {
+      "ru": "Имя",
+      "us": "Nickname"
+    },
+    "phone": {
+      "ru": "Телефон",
+      "us": "Phone"
+    },
+    "phoneTooltip": {
+      "ru": "Введите телефон в международном формате, например +7 (999) 999-99-99",
+      "us": "Enter your phone number in international format, for example +7 (999) 999-99-99"
+    },
+    "mail": {
+      "ru": "Почта",
+      "us": "E-mail"
+    },
+    "mailTooltip": {
+      "ru": "Введите ваш e-mail. Это безопастно, мы не отправляем рекламные рассылки",
+      "us": "E-mail"
+    },
+    "signIn":{
+      "ru": "Войти",
+      "us": "Sign In"
+    },
+    "signUp":{
+      "ru": "Зарегестрироваться",
+      "us": "Sign Up"
+    },
+    "uploadText":{
+      "ru": "Вы можете загрузить фотографию своего профиля в форматах .png, .jpg, .gif",
+      "us": "You can upload your profile photo in .png, .jpg, .gif formats"
+    },
+    "errorOnFetch":{
+      "ru": "Ошибка запроса. Повторите позже",
+      "us": "Error on request. Try later."
+    },
+    "nameIsEmpty":{
+      "ru": "Введите имя",
+      "us": "Nickname can't be empty"
+    },
+    "phoneIsEmpty":{
+      "ru": "Введите телефон",
+      "us": "Phone can't be empty"
+    },
+    "mailIsEmpty":{
+      "ru": "Введите почту",
+      "us": "Mail can't be empty"
+    },
+    "repeatPasswordIsEmpty":{
+      "ru": "Введите пароль второй раз",
+      "us": "Repeat password can't be empty"
+    },
+    "mailIsInvalid":{
+      "ru": "Введите валидную почту",
+      "us": "Enter valid mail"
+    },
+    "passRepassNotEqual":{
+      "ru": "Пароли должны совпадать",
+      "us": "Passwords must match"
+    },
+    "chooseFile":{
+      "ru": "Выберите файл",
+      "us": "Choose file"
+    },
+    "welcomeBack":{
+      "ru": "Рады видеть вас снова",
+      "us": "Welcome back"
+    },
+    "incorrectLoginOrPassword":{
+      "ru": "Неверный логин или пароль",
+      "us": "Incorrect login or password"
+    },
+    "loginIsUsed":{
+      "ru": "Такой логин уже занят",
+      "us": "This login is used"
+    },
+    "fileIsInvalid":{
+      "ru": "Выберите другой файл",
+      "us": "Wrong file"
+    },
+    "sessionExpired":{
+      "ru": "Сессия истекла",
+      "us": "Session expired"
+    },
+    "signUpRequiredText":{
+      "ru": "Все поля, кроме фотографии, обязательны для заполнения",
+      "us": "All fields except the photo are required"
+    }
+
+
+
+
+
+
+
+  }
+}
+
+
